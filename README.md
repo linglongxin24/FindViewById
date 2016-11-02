@@ -1,4 +1,5 @@
-OffingHarbor
+#Android Studio插件
+FindViewById功能的找出来的控件的命名格式使用下划线
 ============
 
 IntelliJ plugin / Android Layout ID Converter
